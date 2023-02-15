@@ -1,3 +1,3 @@
-# cra-template-boboReactTypeScript
+# Front-End-Modify-JSON
 
-存放個人的基礎設定檔案 (測試版)
+讓我有個UI介面可以去修改JSON
